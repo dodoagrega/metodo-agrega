@@ -18,36 +18,37 @@
 
 # Prefácio
 
-Por que este livro existe.
 Prefácio
 
 Por que este livro existe
 
-Este livro nasceu de uma inquietação simples: em um mundo onde ferramentas, tecnologias e informações mudam em uma velocidade cada vez maior, muitas pessoas estão tentando construir projetos sem uma base sólida.
+Este livro nasceu de uma inquietação simples: em um mundo onde ferramentas, tecnologias e informações mudam em uma velocidade cada vez maior, muitas pessoas constroem projetos sem uma base sólida.
 
 Criar algo não é apenas fazer funcionar. Um projeto de valor precisa ser compreendido, organizado, seguro, sustentável e capaz de evoluir com o tempo.
 
-O Método AGREGA surgiu como uma forma de enxergar a construção de projetos como uma jornada de aprendizado contínuo. Uma abordagem que une pensamento estratégico, organização, tecnologia, criatividade e disciplina para transformar ideias em algo concreto.
+O Método AGREGA surgiu como uma forma de enxergar o desenvolvimento de projetos como uma jornada de aprendizado contínuo. Uma abordagem que une pensamento estratégico, organização, tecnologia, criatividade e disciplina para transformar ideias em algo concreto.
 
-A inspiração deste método vem da observação de grandes construtores da história da tecnologia e da engenharia: pessoas que entenderam que bons sistemas não nascem apenas de códigos ou ferramentas, mas de princípios bem definidos, decisões conscientes e melhoria constante.
+A inspiração deste método vem da observação de grandes construtores da história da tecnologia e da engenharia: pessoas que compreenderam que bons sistemas não nascem apenas de códigos ou ferramentas, mas de princípios bem definidos, processos consistentes, decisões conscientes e melhoria constante.
 
-Este livro não pretende apresentar uma fórmula mágica ou um caminho único. Seu objetivo é apresentar uma mentalidade: a de construir com intenção, documentar aprendizados, revisar processos e sempre buscar agregar valor.
+Este livro não pretende apresentar uma fórmula mágica nem um caminho único. Seu objetivo é compartilhar uma mentalidade: construir com intenção, documentar aprendizados, revisar processos e buscar continuamente agregar valor.
 
-Cada etapa do Método AGREGA representa uma parte dessa construção. Assim como grandes projetos são desenvolvidos em pequenas partes, este livro também será construído de forma incremental, evoluindo a cada revisão e aprendizado.
+Cada etapa do Método AGREGA representa uma parte dessa jornada. Assim como grandes projetos são desenvolvidos em pequenas etapas, este livro também será construído de forma incremental, evoluindo a cada revisão, experiência e aprendizado.
 
-Mais do que ensinar uma técnica, este livro busca formar uma maneira de pensar.
+Mais do que ensinar uma técnica, este livro busca desenvolver uma forma de pensar.
 
-Porque no final, projetos duradouros não são aqueles que apenas começam rápido. São aqueles que conseguem permanecer, evoluir e gerar valor ao longo do tempo.
+Porque, no final, projetos duradouros não são aqueles que apenas começam rápido, mas aqueles que permanecem, evoluem e continuam gerando valor ao longo do tempo.
 
 Bem-vindo ao Método AGREGA.
 
-**Status**
+⸻
 
-- [ ] Escrito
-- [ ] Revisado
-- [ ] Aprovado
+Status
 
-**Versão do Capítulo:** 0.1.0
+* ✅ Escrito
+* ✅ Revisado
+* ✅ Aprovado
+
+Versão do Capítulo: 0.1.0
 
 ---
 
