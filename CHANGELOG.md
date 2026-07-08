@@ -35,3 +35,6 @@ O formato é inspirado no Keep a Changelog e segue Versionamento Semântico quan
 
 ### Aprovado
 - Prefácio aprovado para a primeira edição.
+
+## Added
+- Capítulo 1 — Pensar antes de fazer (v1.0.0)
