@@ -19,6 +19,15 @@
 # Prefácio
 
 Por que este livro existe.
+**(Próximo conteúdo aqui)**
+
+**Status**
+
+- [ ] Escrito
+- [ ] Revisado
+- [ ] Aprovado
+
+**Versão do Capítulo:** 0.1.0
 
 ---
 
