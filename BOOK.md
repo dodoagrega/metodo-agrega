@@ -65,131 +65,101 @@ Capítulo 1
 
 Pensar antes de fazer
 
-“A velocidade sem direção apenas faz você chegar mais rápido ao lugar errado.”
+“A execução transforma ideias em resultados. O pensamento transforma problemas em soluções.”
 
 O problema
 
-Vivemos na era da execução.
+A tecnologia nunca permitiu executar tão rápido.
 
-Há livros ensinando como produzir mais, vídeos mostrando como construir uma aplicação em poucas horas e inteligências artificiais capazes de gerar centenas de linhas de código em segundos.
+Em poucos minutos, uma inteligência artificial pode gerar código, documentação, testes e até uma arquitetura inicial. A velocidade deixou de ser um diferencial.
 
-A impressão é que quem executa mais rápido vence.
+O diferencial continua sendo decidir o que deve ser construído.
 
-Na prática, acontece exatamente o contrário.
+Grande parte dos projetos que falham não fracassa por falta de capacidade técnica. Eles falham porque resolveram o problema errado, adicionaram funcionalidades sem valor ou começaram a implementação antes de compreender a necessidade do usuário.
 
-Projetos fracassam não porque as pessoas não sabem programar, mas porque começaram a resolver o problema errado.
-
-É comum encontrar equipes que passam semanas desenvolvendo funcionalidades que nunca serão utilizadas. Empresas investem recursos em soluções que não geram valor. Desenvolvedores passam horas otimizando detalhes de um sistema cuja arquitetura já nasceu comprometida.
-
-O problema quase nunca está na execução.
-
-O problema está no pensamento que veio antes dela.
+Executar rapidamente um plano incorreto apenas acelera o desperdício.
 
 ⸻
 
 O primeiro princípio do Método AGREGA
 
-Antes de escrever uma linha de código, faça uma pergunta:
+O Método AGREGA começa antes da primeira linha de código.
 
-Estou resolvendo o problema certo?
+Antes de implementar qualquer solução, responda a uma pergunta:
 
-Essa pergunta parece simples, mas muda completamente a forma de trabalhar.
+Qual problema estou tentando resolver?
 
-Pensar antes de fazer significa desacelerar por alguns minutos para economizar dias, semanas ou até meses de retrabalho.
+Essa pergunta direciona todo o restante do trabalho.
 
-Não é burocracia.
+Quando o problema é compreendido, decisões sobre arquitetura, tecnologia, prazo e prioridades tornam-se muito mais simples. Quando ele é mal definido, nenhuma ferramenta é capaz de compensar esse erro.
 
-É engenharia.
-
-Assim como um arquiteto desenha a planta antes da construção e um engenheiro calcula a estrutura antes de levantar um prédio, um engenheiro de software precisa compreender o problema antes de criar a solução.
+Pensar antes de fazer não significa adiar a execução. Significa garantir que a execução tenha direção.
 
 ⸻
 
-O custo da pressa
+Um exemplo simples
 
-Existe uma falsa sensação de produtividade quando estamos ocupados.
+Imagine uma equipe que recebe o pedido para criar um novo botão em um sistema.
 
-Abrir o editor.
+Sem investigar o motivo, a funcionalidade é desenvolvida, testada e entregue.
 
-Criar arquivos.
+Dias depois, descobre-se que o verdadeiro problema não era a ausência do botão. Os usuários não conseguiam encontrar uma funcionalidade que já existia.
 
-Escrever funções.
+Horas de desenvolvimento poderiam ter sido substituídas por uma pequena melhoria na interface.
 
-Executar testes.
+O custo não foi escrever o código.
 
-Fazer commits.
-
-Tudo isso parece avanço.
-
-Mas produzir muito não significa produzir valor.
-
-A pergunta correta não é:
-
-“Quanto código foi escrito?”
-
-A pergunta correta é:
-
-“Quanto do problema foi realmente resolvido?”
-
-Grandes profissionais não são aqueles que escrevem mais código.
-
-São aqueles que evitam escrever código desnecessário.
-
-Cada linha criada traz consigo um custo permanente de manutenção, testes, documentação e evolução.
-
-O melhor código continua sendo aquele que nunca precisou existir.
+O custo foi não compreender o problema.
 
 ⸻
 
-Clareza antes da velocidade
+A inteligência artificial amplia decisões
 
-A inteligência artificial tornou a execução extremamente barata.
+Ferramentas de IA reduzem o tempo necessário para implementar uma solução.
 
-Hoje, qualquer pessoa consegue gerar uma aplicação inteira em poucos minutos.
+Elas não reduzem o tempo necessário para entender o problema.
 
-Isso aumenta ainda mais a importância do pensamento crítico.
+Uma pergunta mal formulada produz uma resposta mal direcionada, independentemente da qualidade do modelo utilizado.
 
-Se a IA receber uma direção ruim, produzirá uma solução ruim com enorme velocidade.
+Por isso, a habilidade mais importante do engenheiro de software continua sendo analisar, questionar e compreender antes de construir.
 
-Ela amplifica decisões.
-
-Não as substitui.
-
-Por isso, o profissional do futuro não será reconhecido por digitar mais rápido.
-
-Será reconhecido por formular melhores perguntas.
+A IA amplia decisões. Ela não substitui o julgamento humano.
 
 ⸻
 
-O Método AGREGA em ação
+Prática
 
-Sempre que iniciar um projeto, pare por alguns minutos e responda:
+Antes de iniciar qualquer projeto, responda às seguintes perguntas:
 
 * Qual problema estou resolvendo?
-* Para quem estou resolvendo?
-* Como saberei que deu certo?
-* Existe uma solução mais simples?
-* O que posso deixar para uma versão futura?
+* Quem será beneficiado por esta solução?
+* Como saberei que o problema foi resolvido?
+* Existe uma alternativa mais simples?
+* O que pode ser adiado para uma próxima versão?
 
-Essas perguntas funcionam como um filtro.
-
-Elas reduzem desperdícios, aumentam a qualidade das decisões e tornam o desenvolvimento mais sustentável.
+Essas perguntas levam poucos minutos para serem respondidas e podem economizar semanas de retrabalho.
 
 ⸻
 
 Resumo
 
-O primeiro passo do Método AGREGA não é abrir um editor de código.
+O primeiro princípio do Método AGREGA é simples:
 
-É compreender profundamente o problema.
+Pensar antes de fazer.
 
-Pensar antes de fazer não diminui a velocidade.
+Ferramentas tornam a execução cada vez mais rápida. O entendimento do problema continua sendo responsabilidade do engenheiro.
 
-Aumenta a direção.
+Código é uma consequência.
 
-E direção sempre vale mais do que velocidade.
+Boas decisões vêm primeiro.
 
-Esse será o princípio que sustentará todos os próximos capítulos do livro.
+Status
+
+* ✅ Escrito
+* ✅ Revisado
+* ✅ Aprovado
+
+Versão do Capítulo: 1.0.0
 
 ## Capítulo 2 — Princípios do Método AGREGA
 
