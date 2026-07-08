@@ -23,3 +23,15 @@ O formato é inspirado no Keep a Changelog e segue Versionamento Semântico quan
 ## Próxima versão
 
 - Início da escrita do Capítulo 1 — Pensar antes de fazer.
+## [0.1.0] - 2026-07-08
+
+### Adicionado
+- Estrutura inicial do livro.
+- Prefácio: "Por que este livro existe".
+
+### Revisado
+- Refinamento da redação do prefácio.
+- Melhoria da fluidez e consistência textual.
+
+### Aprovado
+- Prefácio aprovado para a primeira edição.
