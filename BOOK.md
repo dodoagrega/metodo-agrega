@@ -246,6 +246,236 @@ Status
 Versão do Capítulo: 1.0.0
 
 ## Capítulo 2 — Princípios do Método AGREGA
+# Capítulo 2 — Princípios do Método AGREGA
+
+## Princípios que permanecem quando as ferramentas mudam
+
+A tecnologia muda constantemente.
+
+Novas linguagens surgem, ferramentas evoluem e novas formas de construir sistemas aparecem todos os anos.
+
+Porém, algumas ideias permanecem válidas independentemente da tecnologia utilizada.
+
+Essas ideias são os princípios.
+
+Princípios não são regras fixas que determinam exatamente o que fazer. Eles funcionam como critérios para orientar decisões melhores diante de diferentes situações.
+
+Uma regra pode funcionar em um contexto específico.
+
+Um princípio continua ajudando mesmo quando o contexto muda.
+
+O Método AGREGA é construído sobre essa base: aprender princípios que permitem compreender problemas, avaliar alternativas e construir soluções sustentáveis ao longo do tempo.
+
+Um engenheiro não é definido apenas pelas ferramentas que domina, mas pela qualidade das decisões que é capaz de tomar.
+
+---
+
+# 1. Pensar antes de fazer
+
+Toda construção começa com uma decisão.
+
+Antes de escrever código, escolher uma ferramenta ou iniciar uma implementação, existe uma pergunta fundamental:
+
+> Qual problema estamos tentando resolver?
+
+Muitos projetos não falham por falta de capacidade técnica. Eles falham porque a solução foi construída antes que o problema fosse realmente compreendido.
+
+Executar rapidamente uma direção incorreta apenas aumenta o desperdício.
+
+Pensar antes de fazer não significa atrasar a execução.
+
+Significa garantir que a execução tenha propósito.
+
+Antes de construir, pergunte:
+
+- Qual problema está sendo resolvido?
+- Quem será beneficiado?
+- Como saberemos que a solução funcionou?
+- Existe uma alternativa mais simples?
+
+### Reflexão
+
+Estou resolvendo o problema real ou apenas executando uma solicitação?
+
+---
+
+# 2. Fundamentos antes das ferramentas
+
+Ferramentas são importantes.
+
+Elas aumentam nossa capacidade de construir, mas não substituem a capacidade de pensar.
+
+Tecnologias desaparecem. Fundamentos permanecem.
+
+Um profissional limitado a uma ferramenta depende dela para continuar produtivo.
+
+Um profissional que domina fundamentos consegue aprender novas ferramentas continuamente.
+
+Entre esses fundamentos estão:
+
+- raciocínio lógico;
+- modelagem de problemas;
+- arquitetura;
+- estruturas de dados;
+- comunicação;
+- qualidade;
+- segurança.
+
+O objetivo não é saber apenas como utilizar uma tecnologia.
+
+É compreender por que e quando utilizá-la.
+
+> Aprenda a resolver problemas, não apenas a utilizar ferramentas.
+
+### Reflexão
+
+Se esta ferramenta deixar de existir amanhã, o conhecimento adquirido ainda terá valor?
+
+---
+
+# 3. Complexidade deve ser compreendida e gerenciada
+
+Todo projeto possui complexidade.
+
+Algumas complexidades são inevitáveis. Elas fazem parte do próprio problema que estamos tentando resolver.
+
+Essa é a complexidade essencial.
+
+Outras surgem de escolhas ruins, falta de planejamento ou soluções desnecessariamente complicadas.
+
+Essa é a complexidade acidental.
+
+A engenharia não elimina toda complexidade.
+
+Ela administra a complexidade que realmente importa e reduz aquela que poderia ser evitada.
+
+Antes de adicionar algo novo, pergunte:
+
+> Esta decisão aumenta o valor da solução ou apenas aumenta sua dificuldade?
+
+Sistemas sustentáveis não são aqueles sem complexidade.
+
+São aqueles onde a complexidade está sob controle.
+
+### Reflexão
+
+Estou tornando a solução mais poderosa ou apenas mais difícil de manter?
+
+---
+
+# 4. Evolução através de ciclos
+
+Grandes projetos raramente são construídos em uma única tentativa perfeita.
+
+A evolução acontece através de ciclos:
+
+Construir.
+
+Observar.
+
+Aprender.
+
+Melhorar.
+
+Cada ciclo gera conhecimento.
+
+Cada revisão reduz incertezas.
+
+O Método AGREGA entende que pequenas melhorias contínuas são mais eficientes do que grandes mudanças feitas sem aprendizado.
+
+A busca pela perfeição inicial pode impedir a evolução.
+
+O objetivo é criar um sistema capaz de aprender e melhorar.
+
+### Reflexão
+
+O processo atual permite aprender com os erros e melhorar continuamente?
+
+---
+
+# 5. Inteligência artificial como amplificador do pensamento
+
+A inteligência artificial mudou a velocidade da execução.
+
+Ela pode auxiliar na criação de código, documentação, testes, análises e automações.
+
+Mas velocidade sem direção continua sendo um problema.
+
+Uma IA depende de:
+
+- objetivos claros;
+- contexto adequado;
+- critérios de avaliação.
+
+Uma pergunta mal formulada produz uma resposta mal direcionada.
+
+Um objetivo mal definido gera uma solução inadequada.
+
+A IA amplia a capacidade humana.
+
+Ela não substitui responsabilidade, julgamento e compreensão.
+
+O profissional moderno trabalha criando ciclos entre:
+
+intenção → execução → avaliação → melhoria.
+
+### Reflexão
+
+Estou usando IA para acelerar decisões melhores ou apenas para produzir mais rapidamente?
+
+---
+
+# 6. Construir pensando no longo prazo
+
+Projetos importantes não são avaliados apenas pelo momento em que são criados.
+
+Eles precisam evoluir, ser mantidos e continuar gerando valor.
+
+Decisões rápidas podem resolver problemas imediatos.
+
+Decisões conscientes constroem bases duradouras.
+
+O Método AGREGA busca equilibrar velocidade e sustentabilidade.
+
+Construir rápido é importante.
+
+Construir algo que continue funcionando é essencial.
+
+### Reflexão
+
+Esta decisão continuará fazendo sentido daqui a anos?
+
+---
+
+# Resumo
+
+Os princípios do Método AGREGA formam uma base para qualquer processo de construção:
+
+- Pensar antes de fazer.
+- Fundamentos antes das ferramentas.
+- Compreender e gerenciar a complexidade.
+- Evoluir através de ciclos.
+- Usar IA como amplificador do pensamento.
+- Construir considerando o longo prazo.
+
+Tecnologias mudam.
+
+Ferramentas evoluem.
+
+Princípios permanecem.
+
+É sobre esses princípios que o Método AGREGA será construído.
+
+---
+
+## Status
+
+- [x] Escrito
+- [x] Revisado pela Equipe Agregadores
+- [x] Revisão editorial concluída
+- [x] Aprovado
+
+**Versão do capítulo:** 1.0.0
 
 ## Capítulo 3 — A arquitetura vem antes da execução
 
