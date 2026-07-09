@@ -79,3 +79,30 @@ O formato é inspirado no Keep a Changelog e segue Versionamento Semântico quan
 - [x] Revisado pela Equipe Agregadores
 - [x] Revisão editorial concluída
 - [x] Aprovado
+
+## [0.1.0] - 2026-07-09
+
+### Adicionado
+
+- Capítulo 3 — **A arquitetura vem antes da execução**.
+- Conceitos fundamentais sobre arquitetura como conjunto de decisões que orientam a evolução de sistemas.
+- Princípios abordados:
+  - arquitetura proporcional ao problema;
+  - decisões técnicas conscientes;
+  - gerenciamento de complexidade;
+  - evolução sustentável;
+  - segurança e manutenção como parte da arquitetura;
+  - inteligência artificial orientada por contexto, objetivos e limites.
+
+### Revisão
+
+- Capítulo revisado pela Equipe Agregadores.
+- Revisão editorial concluída.
+- Capítulo aprovado e incorporado ao `BOOK.md`.
+
+### Status
+
+- [x] Escrito
+- [x] Revisado pela Equipe Agregadores
+- [x] Revisão editorial concluída
+- [x] Aprovado
