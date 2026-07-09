@@ -686,6 +686,102 @@ Antes de crescer, prepare a base.
 
 # Parte II — Construção
 
+Capítulo 4 — Hello AGREGA
+
+“Toda grande construção começa com um primeiro ciclo.”
+
+O menor exemplo completo
+
+Ao aprender uma nova linguagem de programação, é comum começar com um pequeno programa capaz de demonstrar sua estrutura básica. Ele não resolve um grande problema, mas apresenta a lógica que será utilizada em todos os programas futuros.
+
+O Método AGREGA segue a mesma filosofia.
+
+Antes de enfrentar projetos complexos, precisamos compreender o menor ciclo completo do método.
+
+Chamaremos esse primeiro exemplo de Hello AGREGA.
+
+O desafio
+
+Imagine a seguinte situação:
+
+Você frequentemente esquece de beber água durante o dia.
+
+O objetivo é simples:
+
+Lembrar de beber água regularmente.
+
+Antes de pensar em aplicativos, inteligência artificial ou automações, concentre-se em compreender o problema.
+
+O ciclo
+
+1. Compreender
+
+Qual é o problema?
+
+Esquecer de beber água ao longo do dia.
+
+2. Simplificar
+
+Qual é a solução mais simples possível?
+
+Criar um lembrete periódico.
+
+Nada além do necessário.
+
+3. Executar
+
+Configure um alarme no celular para tocar a cada duas horas.
+
+A solução está em funcionamento.
+
+4. Observar
+
+Após alguns dias, avalie o resultado.
+
+Os alarmes ajudaram?
+
+Foram ignorados?
+
+O problema foi realmente reduzido?
+
+5. Melhorar
+
+Utilize o aprendizado para ajustar a solução.
+
+Talvez outro horário funcione melhor.
+
+Talvez uma garrafa sempre visível reduza a necessidade de alarmes.
+
+Talvez a combinação das duas estratégias seja mais eficiente.
+
+Cada ciclo produz conhecimento para o próximo.
+
+O princípio
+
+O Hello AGREGA demonstra que o método não depende da complexidade do problema.
+
+Primeiro compreendemos.
+
+Depois simplificamos.
+
+Em seguida executamos.
+
+Observamos os resultados.
+
+Por fim, melhoramos.
+
+Projetos maiores seguem exatamente o mesmo processo. Apenas a escala muda.
+
+Resumo
+
+O Hello AGREGA representa o menor ciclo completo do Método AGREGA.
+
+Antes de construir soluções complexas, aprenda a executar um ciclo simples com clareza e intenção.
+
+Quem domina esse ciclo possui uma base sólida para enfrentar desafios cada vez maiores.
+
+Esse é o primeiro passo da construção consciente.
+
 ## Capítulo 4 — Como quebrar problemas
 
 ## Capítulo 5 — Loops e melhoria contínua
