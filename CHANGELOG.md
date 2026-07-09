@@ -38,3 +38,17 @@ O formato é inspirado no Keep a Changelog e segue Versionamento Semântico quan
 
 ## Added
 - Capítulo 1 — Pensar antes de fazer (v1.0.0)
+## [0.1.0] - 2026-07-09
+
+### Adicionado
+
+- Introdução: **O problema que o Método AGREGA resolve**.
+- Estabelecida a base filosófica do Método AGREGA, enfatizando princípios duradouros, tomada de decisão, pensamento estruturado e construção sobre fundamentos sólidos.
+
+### Status
+
+- ✅ Escrito
+- ✅ Revisado pela Equipe Agregadores
+- ✅ Revisão editorial concluída
+- ✅ Aprovado
+- ✅ Incorporado ao BOOK.md
