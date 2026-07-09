@@ -106,6 +106,43 @@ Mas compreender problemas, tomar boas decisões e construir sobre fundamentos s�
 ---
 
 # Parte I — Fundamentos
+# Parte I — Fundamentos
+
+Toda construção sólida começa por aquilo que não pode ser visto.
+
+Antes de qualquer sistema, produto ou linha de código, existem decisões. E toda decisão é sustentada por uma forma de pensar.
+
+É por isso que o Método AGREGA começa pelos fundamentos.
+
+Ao longo da história, as ferramentas mudaram. Novas linguagens surgiram, arquiteturas evoluíram e a inteligência artificial passou a transformar a forma como desenvolvemos soluções. Apesar dessas mudanças, um princípio permaneceu constante: a qualidade de uma construção depende da qualidade dos fundamentos que a sustentam.
+
+À medida que um projeto cresce, sua complexidade cresce com ele. Sem fundamentos sólidos, decisões tornam-se inconsistentes, soluções acumulam problemas e a evolução passa a exigir cada vez mais esforço.
+
+Os fundamentos não atrasam a construção. Eles reduzem o custo dos erros futuros.
+
+Vale a pena aprender uma ferramenta sem compreender o problema que ela pretende resolver?
+
+Nas próximas páginas, o objetivo não será ensinar uma tecnologia específica. O objetivo será desenvolver uma maneira de pensar. Porque quem compreende princípios aprende novas ferramentas. Quem aprende apenas ferramentas precisa recomeçar sempre que elas mudam.
+
+Mesmo em uma era de inteligência artificial e agentes capazes de executar tarefas cada vez mais complexas, continuará sendo responsabilidade humana definir problemas, estabelecer objetivos e julgar a qualidade das soluções.
+
+Uma boa ferramenta potencializa um bom raciocínio. Nunca o substitui.
+
+Esta primeira parte estabelece a base sobre a qual todo o restante do Método AGREGA será construído. Os capítulos seguintes apresentarão os princípios que sustentam essa forma de pensar e que servirão como referência para todas as etapas do método.
+
+Antes de construir melhor, é preciso aprender a pensar melhor.
+
+É aqui que essa jornada realmente começa.
+
+---
+
+## Status
+
+- [x] Escrito
+- [x] Revisado pela Equipe Agregadores
+- [x] Aprovado
+
+**Versão do capítulo:** 0.1.0
 
 ## Capítulo 1 — Pensar antes de fazer
 Capítulo 1
