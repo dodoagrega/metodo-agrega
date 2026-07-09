@@ -106,3 +106,23 @@ O formato é inspirado no Keep a Changelog e segue Versionamento Semântico quan
 - [x] Revisado pela Equipe Agregadores
 - [x] Revisão editorial concluída
 - [x] Aprovado
+
+[0.1.1] - 2026-07-09
+
+Adicionado
+
+* Parte II — Construção.
+* Introdução da Parte II.
+* Capítulo 4 — Hello AGREGA.
+
+Aprovado
+
+* O Hello AGREGA passa a integrar oficialmente a primeira edição do Método AGREGA.
+* Definido como o exemplo canônico do método, apresentando o menor ciclo completo do Método AGREGA.
+
+Processo
+
+* Capítulo revisado pelo Conselho dos Agregadores.
+* Ajustes incorporados após a revisão.
+* Capítulo aprovado na versão 1.0.0.
+* BOOK.md atualizado com a versão aprovada.
