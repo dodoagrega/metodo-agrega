@@ -478,7 +478,210 @@ Princípios permanecem.
 **Versão do capítulo:** 1.0.0
 
 ## Capítulo 3 — A arquitetura vem antes da execução
+# Capítulo 3 — A arquitetura vem antes da execução
 
+## Construir pensando no futuro
+
+Todo sistema começa com uma decisão.
+
+Antes de existir código, existe uma estrutura de decisões sobre como aquela solução será construída.
+
+Essa estrutura representa a arquitetura.
+
+Arquitetura não é apenas documentação, diagramas ou uma etapa burocrática antes da implementação.
+
+Arquitetura é o conjunto de decisões que define como uma solução será organizada, quais responsabilidades existirão, quais limites serão estabelecidos e como o sistema poderá evoluir ao longo do tempo.
+
+Um sistema pode funcionar sem uma arquitetura consciente.
+
+Porém, conforme cresce, as consequências das decisões iniciais começam a aparecer.
+
+O que parecia rápido no início pode se transformar em dificuldade no futuro.
+
+Por isso, o Método AGREGA segue um princípio:
+
+> Antes de executar, compreenda a estrutura que permitirá a evolução.
+
+---
+
+# Arquitetura não é burocracia
+
+Existe uma visão equivocada de que arquitetura significa excesso de documentação, planejamento distante da realidade ou decisões complexas antes de construir.
+
+Na prática, arquitetura existe para reduzir incertezas.
+
+Cada escolha inicial cria consequências futuras.
+
+Definir responsabilidades, organizar componentes, escolher dependências e estabelecer limites são decisões arquiteturais.
+
+A pergunta não é:
+
+"Precisamos de arquitetura?"
+
+A pergunta correta é:
+
+"Qual nível de arquitetura este problema exige?"
+
+Uma aplicação simples pode precisar de uma estrutura simples.
+
+Um sistema complexo precisa de decisões mais cuidadosas.
+
+Uma arquitetura simples não significa uma arquitetura incompleta.
+
+Significa uma arquitetura proporcional ao problema.
+
+---
+
+# O custo das decisões adiadas
+
+No início de um projeto, mudanças parecem baratas.
+
+Com o tempo, cada decisão passa a se conectar com outras partes do sistema.
+
+Uma escolha feita sem pensar pode criar dependências difíceis de remover.
+
+Sistemas raramente se tornam difíceis de manter por causa de uma única decisão.
+
+Eles se tornam difíceis quando muitas decisões pequenas foram tomadas sem uma visão do conjunto.
+
+Arquitetura existe para enxergar o conjunto antes que a complexidade apareça.
+
+---
+
+# Complexidade deve ser organizada
+
+Todo sistema possui complexidade.
+
+A questão não é eliminar toda complexidade.
+
+A questão é compreender onde ela deve existir.
+
+Algumas complexidades são essenciais. Elas fazem parte do próprio problema que estamos tentando resolver.
+
+Outras são acidentais. Elas surgem de escolhas ruins, falta de estrutura ou soluções desnecessariamente complicadas.
+
+A arquitetura não elimina a complexidade do problema.
+
+Ela organiza a complexidade para que o sistema continue compreensível.
+
+Antes de adicionar uma nova camada, ferramenta ou componente, pergunte:
+
+- Qual problema isso resolve?
+- Qual valor essa decisão adiciona?
+- Qual será o custo de manter essa escolha no futuro?
+
+---
+
+# Decisões arquiteturais
+
+Arquitetura aparece nas decisões que moldam o sistema.
+
+Alguns exemplos:
+
+- como responsabilidades serão separadas;
+- como componentes irão se comunicar;
+- quais dependências serão utilizadas;
+- quais limites existirão entre partes do sistema;
+- como segurança e manutenção serão consideradas.
+
+Uma decisão arquitetural não deve ser tomada apenas porque uma tecnologia está em alta.
+
+Ela deve responder a uma necessidade real do sistema.
+
+Antes de escolher uma solução, compreenda o problema.
+
+Uma arquitetura perfeita para o problema errado continua sendo uma falha.
+
+---
+
+# Arquitetura para evolução
+
+Sistemas importantes não permanecem iguais.
+
+Novas necessidades aparecem.
+
+Usuários mudam.
+
+Tecnologias evoluem.
+
+Uma arquitetura saudável permite adaptação.
+
+Ela não tenta prever todas as mudanças futuras.
+
+Ela cria espaço para que mudanças aconteçam sem destruir o que já existe.
+
+Construir para evolução significa aceitar que o futuro será diferente.
+
+---
+
+# Arquitetura, segurança e sustentabilidade
+
+Um sistema não deve ser avaliado apenas pelo fato de funcionar.
+
+Ele precisa ser seguro, compreensível e sustentável.
+
+Arquitetura influencia diretamente:
+
+- capacidade de manutenção;
+- facilidade de testes;
+- segurança das decisões;
+- velocidade de evolução.
+
+Uma decisão técnica também é uma decisão sobre o futuro do projeto.
+
+---
+
+# Inteligência artificial e arquitetura
+
+A inteligência artificial aumentou a velocidade de construção.
+
+Hoje é possível criar protótipos, códigos e soluções iniciais em uma velocidade antes impossível.
+
+Mas velocidade de criação não substitui estrutura.
+
+Uma IA pode gerar uma solução rapidamente.
+
+Porém, sem arquitetura, ela também pode gerar rapidamente um sistema difícil de entender, testar e manter.
+
+Quanto maior a capacidade da ferramenta, maior a importância de definir:
+
+- objetivo;
+- contexto;
+- limites;
+- critérios de qualidade.
+
+Agentes inteligentes precisam de direção.
+
+A arquitetura fornece o ambiente onde a inteligência pode gerar valor.
+
+---
+
+# Resumo
+
+Arquitetura não é uma etapa antes da construção.
+
+Arquitetura é parte da própria construção.
+
+Ela representa as decisões que permitem que um sistema continue existindo, evoluindo e gerando valor.
+
+O Método AGREGA segue um princípio simples:
+
+> Construa hoje pensando no sistema que precisará existir amanhã.
+
+Antes de executar, compreenda a estrutura.
+
+Antes de crescer, prepare a base.
+
+---
+
+## Status
+
+- [x] Escrito
+- [x] Revisado pela Equipe Agregadores
+- [x] Revisão editorial concluída
+- [x] Aprovado
+
+**Versão do capítulo:** 1.0.0
 ---
 
 # Parte II — Construção
