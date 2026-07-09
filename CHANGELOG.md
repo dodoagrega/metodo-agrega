@@ -52,3 +52,30 @@ O formato é inspirado no Keep a Changelog e segue Versionamento Semântico quan
 - ✅ Revisão editorial concluída
 - ✅ Aprovado
 - ✅ Incorporado ao BOOK.md
+
+## [0.1.0] - 2026-07-09
+
+### Adicionado
+
+- Capítulo 2 — **Princípios do Método AGREGA**.
+- Estrutura de princípios fundamentais que orientam decisões independentemente das ferramentas utilizadas.
+- Conceitos de:
+  - princípios versus regras;
+  - fundamentos antes das ferramentas;
+  - gerenciamento de complexidade;
+  - evolução através de ciclos;
+  - inteligência artificial como amplificador do pensamento;
+  - construção orientada ao longo prazo.
+
+### Revisão
+
+- Capítulo revisado pela Equipe Agregadores.
+- Revisão editorial concluída.
+- Capítulo aprovado e incorporado ao `BOOK.md`.
+
+### Status
+
+- [x] Escrito
+- [x] Revisado pela Equipe Agregadores
+- [x] Revisão editorial concluída
+- [x] Aprovado
