@@ -55,7 +55,7 @@ Versão do Capítulo: 0.1.0
 # Introdução
 
 O problema que o Método AGREGA resolve.
-# Introdução
+
 
 ## O problema que o Método AGREGA resolve
 
@@ -106,7 +106,6 @@ Mas compreender problemas, tomar boas decisões e construir sobre fundamentos s�
 ---
 
 # Parte I — Fundamentos
-# Parte I — Fundamentos
 
 Toda construção sólida começa por aquilo que não pode ser visto.
 
@@ -145,7 +144,6 @@ Antes de construir melhor, é preciso aprender a pensar melhor.
 **Versão do capítulo:** 0.1.0
 
 ## Capítulo 1 — Pensar antes de fazer
-Capítulo 1
 
 Pensar antes de fazer
 
@@ -246,9 +244,8 @@ Status
 Versão do Capítulo: 1.0.0
 
 ## Capítulo 2 — Princípios do Método AGREGA
-# Capítulo 2 — Princípios do Método AGREGA
 
-## Princípios que permanecem quando as ferramentas mudam
+Princípios que permanecem quando as ferramentas mudam
 
 A tecnologia muda constantemente.
 
@@ -478,9 +475,9 @@ Princípios permanecem.
 **Versão do capítulo:** 1.0.0
 
 ## Capítulo 3 — A arquitetura vem antes da execução
-# Capítulo 3 — A arquitetura vem antes da execução
 
-## Construir pensando no futuro
+
+**Construir pensando no futuro
 
 Todo sistema começa com uma decisão.
 
@@ -686,7 +683,7 @@ Antes de crescer, prepare a base.
 
 # Parte II — Construção
 
-Capítulo 4 — Hello AGREGA
+##Capítulo 4 — Hello AGREGA
 
 “Toda grande construção começa com um primeiro ciclo.”
 
