@@ -782,7 +782,224 @@ Quem domina esse ciclo possui uma base sólida para enfrentar desafios cada vez 
 
 Esse é o primeiro passo da construção consciente.
 
-## Capítulo 4 — Como quebrar problemas
+# Capítulo 5 — Quebrando Problemas em Partes (Decomposição)
+
+> "Todo sistema complexo é construído a partir de pequenas partes compreendidas e validadas."
+
+---
+
+## Objetivo do capítulo
+
+No capítulo anterior, conhecemos o **Hello AGREGA**, a menor implementação capaz de colocar um projeto em movimento.
+
+Agora surge uma nova pergunta:
+
+**Como fazer esse projeto crescer sem que a complexidade cresça mais rápido do que nossa capacidade de compreendê-la?**
+
+A resposta está em um dos princípios fundamentais do Método AGREGA: **decomposição**.
+
+Decompor significa transformar um problema complexo em uma sequência organizada de problemas menores, compreensíveis e verificáveis.
+
+---
+
+## O erro mais comum
+
+Ao receber um projeto grande, muitas pessoas tentam imaginar a solução completa antes mesmo de iniciar.
+
+Essa abordagem costuma produzir:
+
+- sensação de sobrecarga;
+- dificuldade para começar;
+- planejamento excessivo;
+- retrabalho;
+- medo de errar.
+
+Quanto maior parece o problema, maior a chance de ficarmos paralisados.
+
+O Método AGREGA propõe uma abordagem diferente:
+
+> **Nunca tente resolver o problema inteiro de uma vez. Resolva primeiro a menor parte funcional possível.**
+
+---
+
+## Pensando por primeiros princípios
+
+Antes de dividir um problema, é preciso compreendê-lo.
+
+Pensar por primeiros princípios significa reduzir um problema aos seus elementos fundamentais e, somente então, reconstruí-lo de forma organizada.
+
+Em vez de perguntar:
+
+> "Como outras pessoas resolveram isso?"
+
+pergunte:
+
+> "Quais são os componentes essenciais deste problema?"
+
+Essa mudança de perspectiva evita copiar soluções desnecessárias e favorece projetos mais simples e consistentes.
+
+---
+
+## O princípio da decomposição
+
+Decompor não significa apenas dividir tarefas.
+
+É separar responsabilidades de forma que cada parte possa ser compreendida, construída e validada independentemente.
+
+Considere a missão:
+
+> Construir um sistema de biblioteca.
+
+Em vez de tratar o sistema como um único bloco, podemos identificar responsabilidades distintas:
+
+- cadastrar livros;
+- cadastrar usuários;
+- realizar empréstimos;
+- registrar devoluções;
+- calcular atrasos;
+- emitir relatórios.
+
+Cada uma dessas responsabilidades pode ser dividida novamente até atingir um tamanho adequado para implementação.
+
+---
+
+## Exemplo mínimo de decomposição
+
+Imagine o desenvolvimento de uma lista de tarefas.
+
+Em vez de construir toda a aplicação de uma vez, podemos evoluí-la em pequenas entregas.
+
+```text
+Aplicação de tarefas
+
+1. Criar uma tarefa.
+2. Listar tarefas.
+3. Marcar tarefa como concluída.
+4. Excluir tarefa.
+5. Salvar os dados.
+```
+
+Cada etapa produz um resultado observável.
+
+Cada etapa pode ser testada.
+
+Cada etapa aproxima o projeto do objetivo final.
+
+Esse é o espírito do Hello AGREGA aplicado ao crescimento de um sistema.
+
+---
+
+## Decompor não é fragmentar
+
+Existe uma diferença importante.
+
+Fragmentar é dividir sem critério.
+
+Decompor é organizar responsabilidades.
+
+Uma boa decomposição produz partes que:
+
+- possuem uma responsabilidade clara;
+- podem ser testadas isoladamente;
+- são fáceis de compreender;
+- colaboram para o objetivo do sistema.
+
+Dividir arquivos, módulos ou serviços sem essa organização apenas transfere a complexidade de lugar.
+
+---
+
+## Complexidade essencial e acidental
+
+Nem toda complexidade pode ser eliminada.
+
+Existe a **complexidade essencial**, que faz parte do próprio problema que estamos resolvendo.
+
+Também existe a **complexidade acidental**, criada por decisões desnecessárias, excesso de abstrações ou arquitetura inadequada.
+
+O Método AGREGA busca reduzir a complexidade acidental para que possamos concentrar nossos esforços naquilo que realmente importa.
+
+---
+
+## A regra do Método AGREGA
+
+Durante qualquer projeto, faça constantemente esta pergunta:
+
+> **Qual é a menor parte funcional que posso entregar agora?**
+
+Essa pergunta reduz a ansiedade, facilita o planejamento e cria um fluxo contínuo de pequenas entregas.
+
+Projetos deixam de ser montanhas intransponíveis e passam a ser uma sequência de passos claros.
+
+---
+
+## A decomposição favorece a evolução
+
+Uma boa decomposição facilita:
+
+- testes automatizados;
+- manutenção;
+- reutilização de componentes;
+- colaboração entre equipes;
+- evolução gradual do sistema;
+- obtenção de feedback frequente.
+
+Quanto menores e mais independentes forem as partes, mais rapidamente aprendemos com erros e ajustamos a direção do projeto.
+
+---
+
+## Diagrama conceitual
+
+```text
+Problema
+    │
+    ▼
+Subproblemas
+    │
+    ▼
+Responsabilidades
+    │
+    ▼
+Componentes
+    │
+    ▼
+Sistema completo
+```
+
+O sistema final não surge de um grande esforço único.
+
+Ele emerge da integração de pequenas partes construídas com propósito.
+
+---
+
+## Reflexão
+
+Antes de continuar um projeto, pergunte a si mesmo:
+
+> **Estou dividindo este problema porque ele é realmente complexo ou porque ainda não o compreendi suficientemente?**
+
+Muitas vezes, compreender melhor o problema é o primeiro passo para simplificá-lo.
+
+---
+
+## Resumo
+
+O Método AGREGA entende que grandes sistemas não são construídos de uma única vez.
+
+Eles evoluem por meio de pequenas entregas, cada uma resolvendo um problema específico e validável.
+
+Ao decompor corretamente um desafio, reduzimos riscos, aceleramos o aprendizado e construímos soluções mais robustas.
+
+A partir do próximo capítulo, veremos como essas pequenas entregas deixam de ser eventos isolados e passam a formar um processo contínuo de evolução por meio de **loops de feedback e melhoria contínua**.
+
+---
+
+## Status
+
+- [x] Escrito
+- [x] Revisado
+- [x] Aprovado
+
+**Versão do Capítulo:** 0.1.0
 
 ## Capítulo 5 — Loops e melhoria contínua
 
