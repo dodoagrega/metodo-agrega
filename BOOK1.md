@@ -683,7 +683,7 @@ Antes de crescer, prepare a base.
 
 # Parte II — Construção
 
-##Capítulo 4 — Hello AGREGA
+## Capítulo 4 — Hello AGREGA
 
 “Toda grande construção começa com um primeiro ciclo.”
 
@@ -998,19 +998,19 @@ A partir do próximo capítulo, veremos como essas pequenas entregas deixam de s
 
 **Versão do Capítulo:** 0.1.0
 
-## Capítulo 5 — Loops e melhoria contínua
+## Capítulo 6 — Loops e melhoria contínua
 
-## Capítulo 6 — IA como amplificador, não substituto
+## Capítulo 7 — IA como amplificador, não substituto
 
 ---
 
 # Parte III — Aplicação
 
-## Capítulo 7 — Projetos
+## Capítulo 8 — Projetos
 
-## Capítulo 8 — Negócios
+## Capítulo 9 — Negócios
 
-## Capítulo 9 — Vida pessoal
+## Capítulo 10 — Vida pessoal
 
 ---
 
