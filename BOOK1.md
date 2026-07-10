@@ -55,8 +55,6 @@ Bem-vindo ao Método AGREGA.
 
 # Introdução
 
-O problema que o Método AGREGA resolve.
-
 
 ## O problema que o Método AGREGA resolve
 
@@ -226,7 +224,7 @@ Essas perguntas levam poucos minutos para serem respondidas e podem economizar s
 
 ⸻
 
-Resumo
+###Resumo
 
 O primeiro princípio do Método AGREGA é simples:
 
@@ -705,7 +703,7 @@ Antes de enfrentar projetos complexos, precisamos compreender o menor ciclo comp
 
 Chamaremos esse primeiro exemplo de Hello AGREGA.
 
-O desafio
+## O desafio
 
 Imagine a seguinte situação:
 
@@ -717,15 +715,15 @@ Lembrar de beber água regularmente.
 
 Antes de pensar em aplicativos, inteligência artificial ou automações, concentre-se em compreender o problema.
 
-O ciclo
+## O ciclo
 
-1. Compreender
+**1. Compreender**
 
 Qual é o problema?
 
 Esquecer de beber água ao longo do dia.
 
-2. Simplificar
+**2. Simplificar**
 
 Qual é a solução mais simples possível?
 
@@ -733,13 +731,13 @@ Criar um lembrete periódico.
 
 Nada além do necessário.
 
-3. Executar
+**3. Executar**
 
 Configure um alarme no celular para tocar a cada duas horas.
 
 A solução está em funcionamento.
 
-4. Observar
+**4. Observar**
 
 Após alguns dias, avalie o resultado.
 
@@ -749,7 +747,7 @@ Foram ignorados?
 
 O problema foi realmente reduzido?
 
-5. Melhorar
+**5. Melhorar**
 
 Utilize o aprendizado para ajustar a solução.
 
@@ -761,7 +759,7 @@ Talvez a combinação das duas estratégias seja mais eficiente.
 
 Cada ciclo produz conhecimento para o próximo.
 
-O princípio
+## O princípio
 
 O Hello AGREGA demonstra que o método não depende da complexidade do problema.
 
@@ -777,7 +775,7 @@ Por fim, melhoramos.
 
 Projetos maiores seguem exatamente o mesmo processo. Apenas a escala muda.
 
-Resumo
+# Resumo
 
 O Hello AGREGA representa o menor ciclo completo do Método AGREGA.
 
