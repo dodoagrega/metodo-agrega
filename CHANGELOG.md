@@ -126,3 +126,24 @@ Processo
 * Ajustes incorporados após a revisão.
 * Capítulo aprovado na versão 1.0.0.
 * BOOK.md atualizado com a versão aprovada.
+
+[0.1.0] - 2026-07-10
+
+Adicionado
+
+* Conclusão do Capítulo 5 — Quebrando Problemas em Partes (Decomposição).
+* Inclusão dos conceitos de decomposição, primeiros princípios, complexidade essencial e complexidade acidental.
+* Exemplo prático de decomposição incremental.
+* Diagrama conceitual da decomposição.
+* Seção de reflexão e resumo do capítulo.
+
+Revisado
+
+* Capítulo 5 revisado conforme o pipeline do Método AGREGA.
+* Recomendações do Conselho de Agregadores incorporadas.
+* Revisão editorial concluída.
+
+Status
+
+* Parte II — Construção em andamento.
+* Próximo capítulo: Capítulo 6 — Loops, Feedback e Melhoria Contínua.
