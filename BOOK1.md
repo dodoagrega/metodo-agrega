@@ -146,7 +146,6 @@ Antes de construir melhor, é preciso aprender a pensar melhor.
 
 ## Capítulo 1 — Pensar antes de fazer
 
-Pensar antes de fazer
 
 “A execução transforma ideias em resultados. O pensamento transforma problemas em soluções.”
 
@@ -224,7 +223,7 @@ Essas perguntas levam poucos minutos para serem respondidas e podem economizar s
 
 ⸻
 
-###Resumo
+### Resumo
 
 O primeiro princípio do Método AGREGA é simples:
 
