@@ -1,5 +1,3 @@
-Compreendido. Vamos aplicar a refatoração arquitetural ao conteúdo que você forneceu, garantindo a nova sequência: Mapa do Método → Fundamentos → Construção → Amplificação → Aplicação.
-Aqui está o manuscrito reestruturado.
 Método AGREGA
 > Primeira edição — Em desenvolvimento
 > 
@@ -17,7 +15,12 @@ Introdução: O problema que o Método AGREGA resolve
 A qualidade de um projeto depende da qualidade das decisões que o constroem. Decisões tomadas sem compreensão geram desperdício. O Método AGREGA oferece uma estrutura para pensar antes de agir, organizar antes de construir e revisar antes de expandir, aplicando-se não apenas ao software, mas a qualquer desafio complexo.
 Capítulo 1 — O Método AGREGA em visão geral
 Antes de aprofundar princípios, compreenda o mapa geral. O método é um ciclo contínuo:
-Analisar → Gerar → Refinar → Executar → Garantir → Aprender ↺
+ * Analisar
+ * Gerar
+ * Refinar
+ * Executar
+ * Garantir
+ * Aprender ↺
 Cada etapa transforma incerteza em conhecimento. O objetivo não é apenas produzir, mas construir soluções melhores a cada ciclo.
 Parte I — Fundamentos
 Antes de construir, é preciso compreender. Os fundamentos estabelecem a forma de pensar que orienta todas as decisões.
@@ -25,12 +28,12 @@ Capítulo 2 — Pensar antes de fazer
 Ferramentas de IA aceleram a execução, mas não o entendimento. O princípio é simples: antes da primeira linha de código ou ação, pergunte: "Qual problema estou resolvendo?". Executar rápido um plano incorreto apenas acelera o desperdício.
 Capítulo 3 — Princípios do Método AGREGA
 Princípios permanecem quando ferramentas mudam. Destacam-se:
- * Pensar antes de fazer (O problema vem antes da solução).
- * Fundamentos antes das ferramentas (Domine o raciocínio, não apenas a técnica).
- * Complexidade gerenciável (Diferencie complexidade essencial da acidental).
- * Evolução em ciclos (Construir, observar, aprender, melhorar).
- * IA como amplificador (IA amplia capacidades, não substitui o julgamento humano).
- * Longo prazo (Construir bases sustentáveis).
+ * Pensar antes de fazer: O problema vem antes da solução.
+ * Fundamentos antes das ferramentas: Domine o raciocínio, não apenas a técnica.
+ * Complexidade gerenciável: Diferencie complexidade essencial da acidental.
+ * Evolução em ciclos: Construir, observar, aprender, melhorar.
+ * IA como amplificador: IA amplia capacidades, não substitui o julgamento humano.
+ * Longo prazo: Construir bases sustentáveis.
 Capítulo 4 — A arquitetura vem antes da execução
 Arquitetura é o conjunto de decisões que permite a evolução. Não é burocracia, é a organização necessária para reduzir incertezas futuras. Construa hoje pensando na estrutura que sustentará o sistema amanhã.
 Parte II — Construção
@@ -58,5 +61,3 @@ O Método AGREGA é um processo, não um destino. É uma forma contínua de pens
 > Documento vivo
 > Este manuscrito evolui seguindo os princípios do Método AGREGA. Cada alteração significativa deve ser registrada no CHANGELOG.md.
 > 
-Esta estrutura resolve o problema da carga cognitiva do leitor, colocando a IA exatamente onde ela pertence: como um acelerador de uma mente já estruturada.
-Como deseja prosseguir com o desenvolvimento dos capítulos que ainda não possuem conteúdo (7, 8, 9, 10 e 11)?
