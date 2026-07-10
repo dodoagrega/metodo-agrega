@@ -39,17 +39,19 @@ Porque, no final, projetos duradouros não são aqueles que apenas começam ráp
 
 Bem-vindo ao Método AGREGA.
 
-⸻
-
-Status
-
-* ✅ Escrito
-* ✅ Revisado
-* ✅ Aprovado
-
-Versão do Capítulo: 0.1.0
 
 ---
+
+## Status
+
+- [x] Escrito
+- [x] Revisado
+- [x] Aprovado
+
+**Versão do capítulo:** 0.1.0
+
+---
+
 
 # Introdução
 
@@ -137,10 +139,12 @@ Antes de construir melhor, é preciso aprender a pensar melhor.
 ## Status
 
 - [x] Escrito
-- [x] Revisado pela Equipe Agregadores
+- [x] Revisado
 - [x] Aprovado
 
 **Versão do capítulo:** 0.1.0
+
+---
 
 ## Capítulo 1 — Pensar antes de fazer
 
@@ -234,13 +238,17 @@ Código é uma consequência.
 
 Boas decisões vêm primeiro.
 
-Status
+---
 
-* ✅ Escrito
-* ✅ Revisado
-* ✅ Aprovado
+## Status
 
-Versão do Capítulo: 1.0.0
+- [x] Escrito
+- [x] Revisado
+- [x] Aprovado
+
+**Versão do capítulo:** 0.1.0
+
+---
 
 ## Capítulo 2 — Princípios do Método AGREGA
 
@@ -467,11 +475,12 @@ Princípios permanecem.
 ## Status
 
 - [x] Escrito
-- [x] Revisado pela Equipe Agregadores
-- [x] Revisão editorial concluída
+- [x] Revisado
 - [x] Aprovado
 
-**Versão do capítulo:** 1.0.0
+**Versão do capítulo:** 0.1.0
+
+---
 
 ## Capítulo 3 — A arquitetura vem antes da execução
 
@@ -673,11 +682,11 @@ Antes de crescer, prepare a base.
 ## Status
 
 - [x] Escrito
-- [x] Revisado pela Equipe Agregadores
-- [x] Revisão editorial concluída
+- [x] Revisado
 - [x] Aprovado
 
-**Versão do capítulo:** 1.0.0
+**Versão do capítulo:** 0.1.0
+
 ---
 
 # Parte II — Construção
@@ -995,8 +1004,9 @@ A partir do próximo capítulo, veremos como essas pequenas entregas deixam de s
 - [x] Revisado
 - [x] Aprovado
 
-**Versão do Capítulo:** 0.1.0
+**Versão do capítulo:** 0.1.0
 
+---
 ## Capítulo 6 — Loops e melhoria contínua
 
 ## Capítulo 7 — IA como amplificador, não substituto
