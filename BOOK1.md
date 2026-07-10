@@ -18,7 +18,6 @@
 
 # Prefácio
 
-Prefácio
 
 Por que este livro existe
 
@@ -477,7 +476,7 @@ Princípios permanecem.
 ## Capítulo 3 — A arquitetura vem antes da execução
 
 
-**Construir pensando no futuro
+**Construir pensando no futuro**
 
 Todo sistema começa com uma decisão.
 
