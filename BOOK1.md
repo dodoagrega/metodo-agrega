@@ -1487,6 +1487,100 @@ Mas a responsabilidade de compreender problemas, tomar decisões conscientes e c
 # Parte III — Aplicação
 
 ## Capítulo 8 — Projetos
+# Parte III — Aplicação
+
+Depois de compreender os fundamentos e os princípios de construção, chega o momento de aplicar o Método AGREGA em situações reais.
+
+Um método não existe apenas para ser estudado.
+
+Ele existe para orientar decisões, organizar pensamentos e transformar ideias em resultados.
+
+Projetos, negócios e vida pessoal possuem características diferentes, mas compartilham desafios semelhantes:
+
+- compreender problemas;
+- lidar com incertezas;
+- tomar decisões;
+- evoluir continuamente.
+
+O Método AGREGA funciona como uma estrutura de pensamento capaz de adaptar-se a diferentes contextos.
+
+Nesta parte, veremos como os princípios apresentados anteriormente podem ser aplicados na prática.
+
+---
+
+# Capítulo 8 — Projetos
+
+> "Projetos bem-sucedidos não começam pela execução. Começam pela compreensão do que precisa ser construído."
+
+---
+
+## Objetivo do capítulo
+
+Projetos existem para transformar uma ideia em uma realidade concreta.
+
+Entretanto, muitos projetos falham não por falta de esforço, mas por falta de clareza.
+
+Antes de construir qualquer solução, é necessário compreender:
+
+- qual problema está sendo resolvido;
+- quem será beneficiado;
+- quais restrições existem;
+- como o sucesso será medido.
+
+Neste capítulo veremos como aplicar o Método AGREGA na construção de projetos, desde a ideia inicial até a evolução contínua da solução.
+
+---
+
+## O projeto como processo de aprendizado
+
+Um projeto não é apenas uma sequência de tarefas.
+
+É um processo de descoberta.
+
+No início, muitas informações ainda são desconhecidas.
+
+Existem hipóteses sobre usuários, necessidades, tecnologias e resultados esperados.
+
+O papel do método é transformar incertezas em conhecimento.
+
+Cada etapa deve gerar aprendizado suficiente para orientar a próxima decisão.
+
+---
+
+## Antes de construir, compreenda
+
+A primeira etapa de qualquer projeto é entender o problema.
+
+Antes de perguntar:
+
+> "Como vamos construir?"
+
+pergunte:
+
+> "O que realmente precisa ser resolvido?"
+
+Uma solução tecnicamente excelente pode falhar se resolver o problema errado.
+
+Grandes projetos começam com grandes perguntas.
+
+---
+
+## O ciclo de construção de projetos no Método AGREGA
+
+```text
+Problema
+   ↓
+Compreensão
+   ↓
+Planejamento
+   ↓
+Primeira versão
+   ↓
+Validação
+   ↓
+Aprendizado
+   ↓
+Evolução
 
 ## Capítulo 9 — Negócios
 
