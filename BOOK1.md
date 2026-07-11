@@ -1388,7 +1388,100 @@ Construir, validar, aprender e repetir deixa de ser apenas uma técnica de desen
 **Próximo capítulo:** Hello AGREGA — O menor exemplo completo do Método AGREGA.
 
 ## Capítulo 7 — IA como amplificador, não substituto
+Princípios da IA no Método AGREGA
 
+Os capítulos anteriores mostraram que toda construção começa pela compreensão do problema, evolui por pequenas entregas e se fortalece por meio de ciclos de aprendizado.
+
+A inteligência artificial não altera esses princípios.
+
+Ela amplia nossa capacidade de aplicá-los.
+
+Antes de utilizar IA, faça cinco perguntas fundamentais.
+
+1. Este problema realmente precisa de IA?
+
+Nem toda solução exige inteligência artificial.
+
+Em muitos casos, uma abordagem mais simples é mais barata, mais rápida e mais fácil de manter.
+
+Utilize IA quando ela agregar valor real ao projeto.
+
+⸻
+
+2. A IA está simplificando ou aumentando a complexidade?
+
+Uma boa ferramenta reduz esforço sem aumentar desnecessariamente a complexidade da solução.
+
+Se a tecnologia tornar o sistema mais difícil de compreender, manter ou evoluir, vale a pena reavaliar sua utilização.
+
+⸻
+
+3. A IA está gerando valor para o usuário?
+
+O sucesso de uma solução não é medido pela quantidade de algoritmos utilizados.
+
+É medido pelo valor entregue às pessoas.
+
+Tecnologia existe para resolver problemas reais.
+
+⸻
+
+4. A IA está ampliando o conhecimento?
+
+A IA deve acelerar o aprendizado.
+
+Nunca substituí-lo.
+
+Utilize suas respostas para compreender melhor os problemas, validar hipóteses e explorar alternativas.
+
+Evite transformar a IA em uma fonte de respostas aceitas sem reflexão.
+
+⸻
+
+5. Quem assume a responsabilidade?
+
+Independentemente do nível de automação, a responsabilidade permanece humana.
+
+A IA pode recomendar.
+
+Pode sugerir.
+
+Pode acelerar.
+
+Mas continua sendo responsabilidade do engenheiro definir objetivos, avaliar riscos e responder pelas decisões tomadas.
+
+⸻
+
+Manifesto da IA no Método AGREGA
+
+A IA deve ampliar,
+nunca substituir.
+A IA deve simplificar,
+nunca complicar.
+A IA deve acelerar,
+nunca eliminar o pensamento.
+A IA deve apoiar decisões,
+nunca assumir responsabilidades.
+A IA deve produzir valor,
+nunca apenas volume.
+
+Esses princípios sintetizam a filosofia do Método AGREGA para o uso da inteligência artificial.
+
+As ferramentas continuarão evoluindo.
+
+Novos modelos surgirão.
+
+Novas capacidades aparecerão.
+
+Entretanto, enquanto existirem problemas para compreender e decisões para tomar, esses princípios continuarão orientando a construção de soluções sustentáveis.
+
+A tecnologia continuará mudando.
+
+Os modelos continuarão evoluindo.
+
+Mas a responsabilidade de compreender problemas, tomar decisões conscientes e construir soluções que gerem valor continuará sendo humana.
+
+É sobre esse equilíbrio que o Método AGREGA foi construído.
 ---
 
 # Parte III — Aplicação
