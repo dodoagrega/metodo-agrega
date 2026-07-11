@@ -147,3 +147,27 @@ Status
 
 * Parte II — Construção em andamento.
 * Próximo capítulo: Capítulo 6 — Loops, Feedback e Melhoria Contínua.
+
+[0.1.0] - 2026-07-11
+
+Adicionado
+
+* Capítulo 6 — Loops e Melhoria Contínua.
+* Definição do conceito de loops como ciclos de aprendizado contínuo.
+* Descrição do Loop AGREGA (Observar → Entender → Construir → Validar → Aprender → Repetir).
+* Exemplo prático demonstrando a evolução de um produto por meio de múltiplos ciclos.
+* Seção sobre as principais fontes de feedback: usuário, aspectos técnicos, dados e IA.
+* Aplicação dos loops em desenvolvimento de software, negócios, estudos e vida pessoal.
+* Critérios para encerrar um ciclo de melhoria contínua.
+* Conexão entre o capítulo e o conceito do Hello AGREGA.
+* Seção de Revisão do Conselho de Agregadores, consolidando o processo editorial do Método AGREGA.
+
+Alterado
+
+* Estrutura do capítulo reorganizada para reforçar a progressão lógica entre teoria, prática e aplicação.
+* Inclusão de explicação diferenciando repetição de evolução baseada em aprendizado.
+
+Revisão
+
+* Capítulo revisado segundo as diretrizes do Conselho de Agregadores.
+* Status do capítulo atualizado para Aprovado.
