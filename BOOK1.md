@@ -2169,9 +2169,250 @@ E evoluiu através de ciclos de compreensão, construção e aprendizado.
 
 ---
 
-## Próximo capítulo
+# Capítulo 10 — As perguntas certas
 
-**Capítulo 10 — Vida Pessoal**
+> "A qualidade das respostas depende da qualidade das perguntas que fazemos."
+
+---
+
+## Objetivo do capítulo
+
+Ao longo deste livro, o Método AGREGA apresentou uma sequência de construção:
+
+Compreender.
+
+Organizar.
+
+Construir.
+
+Validar.
+
+Evoluir.
+
+Porém, antes de todos esses passos existe algo ainda mais fundamental:
+
+A pergunta.
+
+Toda construção nasce de uma tentativa de responder algo.
+
+Antes de existir um sistema, existe uma necessidade.
+
+Antes de existir uma solução, existe um problema.
+
+Antes de existir uma resposta, existe uma pergunta.
+
+---
+
+# O poder de uma pergunta
+
+Grandes avanços da humanidade começaram com perguntas.
+
+Perguntas que desafiaram conhecimentos existentes.
+
+Perguntas que revelaram problemas ocultos.
+
+Perguntas que abriram novos caminhos.
+
+A pergunta correta direciona esforço.
+
+A pergunta errada direciona desperdício.
+
+Na engenharia, construir uma solução perfeita para o problema errado continua sendo uma falha.
+
+O código pode estar correto.
+
+A arquitetura pode estar bem estruturada.
+
+A tecnologia pode ser moderna.
+
+Mas se a pergunta inicial estava errada, toda a construção perde seu propósito.
+
+---
+
+# Perguntas antes de respostas
+
+A velocidade das ferramentas modernas mudou a forma como construímos.
+
+Com inteligência artificial, respostas podem ser produzidas em segundos.
+
+Mas quanto maior a capacidade de responder, maior a importância de perguntar corretamente.
+
+Uma pergunta superficial gera respostas superficiais.
+
+Uma pergunta bem estruturada abre possibilidades melhores.
+
+Uma pergunta de engenharia não busca apenas uma resposta.
+
+Ela busca compreensão.
+
+Antes de buscar uma solução, pergunte:
+
+- Qual problema estamos tentando resolver?
+- Quem realmente possui essa necessidade?
+- Qual resultado esperamos alcançar?
+- Existe uma solução mais simples?
+- Como saberemos que tivemos sucesso?
+
+Essas perguntas criam direção.
+
+---
+
+# Perguntas são hipóteses
+
+Toda pergunta importante carrega uma hipótese.
+
+Quando perguntamos:
+
+> "Existe uma maneira melhor de resolver este problema?"
+
+Estamos criando uma possibilidade que precisa ser investigada.
+
+A engenharia transforma perguntas em experimentos.
+
+Experimentos geram dados.
+
+Dados geram aprendizado.
+
+O objetivo não é apenas encontrar respostas.
+
+É descobrir quais perguntas merecem ser respondidas.
+
+---
+
+# O problema por trás do problema
+
+Muitas vezes, a primeira descrição de um problema não representa sua causa real.
+
+O Método AGREGA incentiva investigar além do sintoma.
+
+Exemplo:
+
+Problema aparente:
+
+> "Precisamos de um novo sistema."
+
+Pergunta mais profunda:
+
+> "Qual dificuldade esse sistema precisa resolver?"
+
+Talvez o problema real seja:
+
+- falta de comunicação;
+- processo mal definido;
+- informação perdida;
+- decisão sem contexto.
+
+Construir uma solução começa por compreender a causa.
+
+A maior dificuldade da engenharia não está apenas em construir.
+
+Está em descobrir o que realmente precisa ser construído.
+
+---
+
+# Perguntas na engenharia
+
+Na engenharia de software, boas perguntas orientam boas decisões.
+
+Antes de escolher uma tecnologia:
+
+- Qual problema ela resolve?
+- Essa complexidade é necessária?
+- Existe uma alternativa mais simples?
+- Como essa decisão afetará o futuro?
+
+Antes de criar uma funcionalidade:
+
+- Quem precisa disso?
+- Qual valor será entregue?
+- Como validaremos o resultado?
+
+Arquiteturas são respostas congeladas para perguntas importantes.
+
+Uma arquitetura ruim geralmente começa com uma pergunta mal formulada.
+
+O engenheiro não é apenas alguém que constrói.
+
+É alguém que investiga.
+
+---
+
+# Perguntas na inovação
+
+Grandes inovações geralmente surgem quando alguém observa uma realidade existente e questiona:
+
+> "Existe uma maneira melhor?"
+
+A inovação não nasce apenas da criação de algo novo.
+
+Muitas vezes nasce da percepção de uma dor antiga que nunca foi resolvida adequadamente.
+
+Grandes criadores procuram problemas persistentes.
+
+Eles não começam pela tecnologia.
+
+Começam pela pergunta.
+
+---
+
+# Perguntas na era da inteligência artificial
+
+A inteligência artificial mudou a relação entre perguntas e respostas.
+
+Hoje, qualquer pessoa pode obter sugestões, códigos e análises rapidamente.
+
+Por isso, uma das habilidades mais importantes passa a ser:
+
+Saber perguntar.
+
+Uma IA pode gerar milhares de possibilidades.
+
+Mas ela depende de:
+
+- objetivo claro;
+- contexto correto;
+- critérios de avaliação.
+
+Contexto faz parte da pergunta.
+
+Uma pergunta sem contexto limita a qualidade da resposta.
+
+A inteligência artificial amplia respostas.
+
+O pensamento humano define direção.
+
+---
+
+# O ciclo eterno do aprendizado
+
+O Método AGREGA não termina com uma resposta.
+
+Toda resposta gera novas perguntas.
+
+O ciclo continua:
+
+```text
+Pergunta
+
+↓
+
+Investigação
+
+↓
+
+Construção
+
+↓
+
+Resultado
+
+↓
+
+Aprendizado
+
+↓
+
+Nova pergunta
 
 Aplicando o Método AGREGA ao desenvolvimento individual.
 
