@@ -1811,6 +1811,370 @@ Ele também pode ser utilizado para descobrir problemas fundamentais, formular h
 
 **Capítulo 9 — Negócios**
 
+# Capítulo 9 — Negócios
+
+> "Um negócio não começa com uma empresa. Começa com uma dor compreendida."
+
+---
+
+## Objetivo do capítulo
+
+No capítulo anterior, aplicamos o Método AGREGA para criar um projeto a partir de um problema real.
+
+Descobrimos o Projeto DNA:
+
+Uma proposta para preservar o conhecimento essencial dos projetos.
+
+Mas uma nova pergunta surge:
+
+> Uma boa solução é suficiente para criar um negócio?
+
+A resposta é não.
+
+Uma solução resolve um problema.
+
+Um negócio existe quando essa solução gera valor de forma sustentável para outras pessoas.
+
+---
+
+# A diferença entre projeto e negócio
+
+Um projeto possui um objetivo.
+
+Um negócio possui uma responsabilidade contínua.
+
+O projeto pergunta:
+
+> "Como construir esta solução?"
+
+O negócio pergunta:
+
+> "Como continuar entregando valor para quem precisa dela?"
+
+Essa mudança de perspectiva é fundamental.
+
+---
+
+# O primeiro princípio: comece pela dor
+
+Antes de pensar em produto, tecnologia ou empresa, compreenda o problema.
+
+No Projeto DNA, a pergunta inicial não foi:
+
+> "Como criar uma ferramenta de IA?"
+
+Foi:
+
+> "Por que equipes continuam perdendo conhecimento importante?"
+
+A dor encontrada foi:
+
+- decisões sem contexto;
+- conhecimento preso em pessoas;
+- dificuldade de onboarding;
+- repetição de erros antigos.
+
+O problema veio antes da solução.
+
+---
+
+# Aplicando o Método AGREGA ao negócio
+
+## 1. Compreender
+
+O primeiro ciclo busca validar a existência da dor.
+
+Perguntas:
+
+- Quantas equipes enfrentam esse problema?
+- Quanto tempo é perdido tentando recuperar contexto?
+- Quais soluções existem atualmente?
+- Elas resolvem completamente o problema?
+
+Neste momento, não estamos vendendo.
+
+Estamos aprendendo.
+
+---
+
+## 2. Simplificar
+
+O erro comum é tentar criar uma plataforma completa.
+
+O Método AGREGA propõe o menor experimento capaz de gerar aprendizado.
+
+A primeira versão do Projeto DNA poderia ser:
+
+- um modelo estruturado de decisões;
+- um processo de registro;
+- uma estrutura simples para registrar e consultar decisões.
+
+O objetivo inicial não é escalar.
+
+É validar.
+
+---
+
+## 3. Construir
+
+Depois da hipótese inicial, criamos uma solução mínima.
+
+Exemplo:
+
+```text
+Projeto DNA
+
+├── Problema
+├── Contexto
+├── Decisão
+├── Justificativa
+└── Aprendizado
+```
+
+Esse pequeno modelo não representa ainda um produto.
+
+Ele representa uma hipótese.
+
+Antes de construir uma solução completa, o Método AGREGA busca validar se esse modelo preserva conhecimento e reduz perda de contexto.
+
+---
+
+## 4. Validar
+
+Uma hipótese não se transforma em negócio porque parece uma boa ideia.
+
+Ela precisa encontrar a realidade.
+
+No caso do Projeto DNA, a pergunta principal é:
+
+> "Essa dor realmente possui valor suficiente para que alguém queira resolvê-la?"
+
+A validação busca responder:
+
+- As equipes realmente perdem conhecimento importante?
+- Esse problema gera custos ou atrasos?
+- As pessoas tentam resolver essa dor atualmente?
+- A solução proposta reduz o problema de forma perceptível?
+
+Antes de construir uma grande plataforma, precisamos provar que o problema merece uma solução.
+
+---
+
+# O cliente como fonte de aprendizado
+
+Uma das maiores armadilhas na criação de negócios é construir uma solução baseada apenas na visão de quem cria.
+
+O Método AGREGA propõe uma inversão:
+
+Primeiro compreender.
+
+Depois construir.
+
+O cliente não é apenas alguém que compra uma solução.
+
+Ele é uma fonte de conhecimento sobre o problema.
+
+Cada conversa, uso e feedback representa um novo ciclo de aprendizado.
+
+---
+
+## 5. Evoluir
+
+Após a primeira validação, inicia-se um novo ciclo.
+
+A solução inicial raramente será a solução final.
+
+O objetivo de cada versão é gerar conhecimento suficiente para tomar melhores decisões.
+
+O ciclo permanece:
+
+```text
+Hipótese
+
+↓
+
+Experimento
+
+↓
+
+Feedback
+
+↓
+
+Aprendizado
+
+↓
+
+Nova hipótese
+```
+
+O negócio evolui porque aprende.
+
+---
+
+# A arquitetura de um negócio
+
+Assim como sistemas possuem arquitetura, negócios também precisam de uma estrutura de decisões.
+
+Um negócio sustentável conecta cinco elementos:
+
+```text
+Problema
+
+↓
+
+Solução
+
+↓
+
+Cliente
+
+↓
+
+Valor
+
+↓
+
+Sustentabilidade
+```
+
+## Problema
+
+Existe uma dor real?
+
+## Solução
+
+A proposta reduz essa dor?
+
+## Cliente
+
+Existe alguém que reconhece esse valor?
+
+## Valor
+
+O benefício entregue é maior que o custo da solução?
+
+## Sustentabilidade
+
+O modelo permite que a solução continue evoluindo?
+
+Se qualquer elemento falhar, o negócio precisa revisar suas decisões.
+
+---
+
+# O papel da inteligência artificial
+
+A inteligência artificial pode acelerar todas as etapas do processo.
+
+Ela pode auxiliar:
+
+- na pesquisa de mercado;
+- na análise de feedbacks;
+- na criação de protótipos;
+- na organização de conhecimento;
+- na automação de processos.
+
+Porém, existe um princípio fundamental:
+
+> A IA acelera a execução. O ser humano continua responsável pela direção.
+
+Uma solução construída rapidamente para um problema inexistente continua sendo uma solução sem valor.
+
+---
+
+# Métricas de aprendizado
+
+Antes de medir crescimento, o Método AGREGA mede aprendizado.
+
+No início de um negócio, as perguntas mais importantes são:
+
+- Estamos compreendendo melhor o problema?
+- A solução está reduzindo a dor?
+- Os usuários retornam?
+- As hipóteses estão sendo confirmadas ou descartadas?
+
+Métricas não existem apenas para medir sucesso.
+
+Elas existem para orientar decisões melhores.
+
+---
+
+# Do projeto ao negócio
+
+O Projeto DNA começou como uma pergunta:
+
+> "Como evitar que projetos percam conhecimento?"
+
+Essa pergunta gerou uma hipótese.
+
+A hipótese gerou um experimento.
+
+O experimento gerou aprendizado.
+
+O aprendizado pode gerar uma solução.
+
+E somente depois surge a possibilidade de um negócio.
+
+Essa sequência é importante.
+
+Muitas empresas começam pelo produto.
+
+O Método AGREGA começa pelo problema.
+
+---
+
+# Reflexão
+
+Grandes negócios raramente surgem porque alguém teve uma ideia perfeita.
+
+Eles surgem porque alguém compreendeu profundamente uma dor, construiu uma solução simples, aprendeu com a realidade e evoluiu continuamente.
+
+A diferença entre uma ideia e um negócio está no ciclo de aprendizado.
+
+---
+
+# Resumo
+
+O Método AGREGA aplicado aos negócios ensina que:
+
+- problemas vêm antes de produtos;
+- clientes vêm antes de escala;
+- aprendizado vem antes de crescimento;
+- valor vem antes de tecnologia.
+
+O Projeto DNA demonstra essa filosofia.
+
+Ele não começou como uma empresa.
+
+Começou como uma pergunta.
+
+E evoluiu através de ciclos de compreensão, construção e aprendizado.
+
+---
+
+## Revisão do Conselho de Agregadores
+
+**Status:** ✅ Aprovado
+
+**Versão do capítulo:** 0.1.0
+
+### Melhorias incorporadas:
+
+- ✅ Problema definido antes da solução.
+- ✅ Validação incluída como etapa obrigatória.
+- ✅ Cliente colocado como fonte de aprendizado.
+- ✅ IA posicionada como amplificador.
+- ✅ Métricas de aprendizado adicionadas.
+- ✅ Conexão entre projeto e negócio fortalecida.
+
+---
+
+## Próximo capítulo
+
+**Capítulo 10 — Vida Pessoal**
+
+Aplicando o Método AGREGA ao desenvolvimento individual.
+
 Como aplicar o Método AGREGA para transformar problemas em oportunidades de negócio sustentáveis.
 
 ## Capítulo 9 — Negócios
