@@ -2554,11 +2554,147 @@ Evoluir
 ---
 
 # Referências
+# Referências — O Conselho de Agregadores
+
+> "Grandes construções são resultado do conhecimento acumulado por muitas gerações."
 
 ---
 
-> **Documento vivo**
->
-> Este manuscrito evolui seguindo os princípios do Método AGREGA.
->
-> Cada alteração significativa deve ser registrada no `CHANGELOG.md`, revisada antes da publicação e refletir a filosofia de evolução contínua do projeto.
+O Método AGREGA não nasceu de uma única ideia.
+
+Ele é resultado da combinação de princípios desenvolvidos por grandes pensadores, engenheiros, cientistas e criadores que demonstraram, ao longo da história, uma característica em comum:
+
+A capacidade de compreender problemas complexos e construir soluções que permanecem relevantes.
+
+Este conselho representa as inspirações que ajudaram a moldar a filosofia do Método AGREGA.
+
+---
+
+# O Conselho de Agregadores
+
+## Grace Hopper — Inovação e acessibilidade
+
+Representa a capacidade de transformar ideias complexas em ferramentas que ampliam o potencial humano.
+
+Sua visão inspira o princípio:
+
+> Tecnologia deve aproximar pessoas da capacidade de criar.
+
+---
+
+## Donald Knuth — Fundamentos e precisão
+
+Representa a importância do conhecimento profundo, da clareza e da compreensão dos fundamentos.
+
+Sua inspiração reforça:
+
+> Ferramentas mudam. Fundamentos permanecem.
+
+---
+
+## Fred Brooks — Complexidade e engenharia
+
+Representa a compreensão de que construir sistemas exige lidar com complexidade essencial e acidental.
+
+Sua contribuição inspira:
+
+> Bons sistemas não eliminam complexidade. Eles a organizam.
+
+---
+
+## Fábio Akita — Engenharia prática e fundamentos
+
+Representa a importância de compreender tecnologia além das tendências.
+
+Sua inspiração reforça:
+
+> Antes da ferramenta, compreenda o problema.
+
+---
+
+## Lucas Montano — Arquitetura e visão sistêmica
+
+Representa a importância de enxergar sistemas como estruturas conectadas.
+
+Sua contribuição inspira:
+
+> Arquitetura começa antes do código.
+
+---
+
+## Boris Cherny — Inteligência artificial e amplificação
+
+Representa a nova relação entre humanos e inteligência artificial.
+
+Sua inspiração reforça:
+
+> IA amplia capacidades humanas, mas não substitui julgamento.
+
+---
+
+## Ada Lovelace — Criatividade e visão de futuro
+
+Representa a união entre lógica, matemática e imaginação.
+
+Sua contribuição inspira:
+
+> A tecnologia nasce quando conhecimento e criatividade trabalham juntos.
+
+---
+
+## Steve Jobs — Simplicidade e experiência
+
+Representa a busca pela essência.
+
+Sua inspiração reforça:
+
+> A simplicidade é resultado de compreender profundamente um problema.
+
+---
+
+## Elon Musk — Primeiros princípios
+
+Representa a capacidade de questionar premissas e reconstruir soluções a partir dos fundamentos.
+
+Sua inspiração:
+
+> Antes de aceitar uma resposta, questione a base do problema.
+
+---
+
+## Yitang Zhang — Persistência e problemas difíceis
+
+Representa a coragem de enfrentar problemas considerados impossíveis.
+
+Sua inspiração:
+
+> Algumas soluções aparecem quando encontramos uma nova forma de perguntar.
+
+---
+
+# O legado do Conselho
+
+Cada integrante representa uma perspectiva diferente:
+
+```text
+Inovação
+   ↓
+Fundamentos
+   ↓
+Complexidade
+   ↓
+Engenharia
+   ↓
+Arquitetura
+   ↓
+IA
+   ↓
+Criatividade
+   ↓
+Simplicidade
+   ↓
+Primeiros princípios
+   ↓
+Persistência
+
+---
