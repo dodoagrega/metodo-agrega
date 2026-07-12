@@ -1582,6 +1582,237 @@ Aprendizado
    ↓
 Evolução
 
+** Versao evoluiu capitulo 8.1 **
+
+# Capítulo 8 — Projeto DNA
+
+> "Grandes projetos não nascem de grandes soluções. Nascem da compreensão de grandes problemas."
+
+---
+
+## Objetivo do capítulo
+
+Até este ponto, o Método AGREGA apresentou seus princípios fundamentais e mostrou como utilizá-los para compreender problemas, decompor soluções e evoluir por meio de ciclos.
+
+Neste capítulo, aplicaremos o método na criação de um projeto real.
+
+Mais importante do que o resultado será o processo utilizado para chegar até ele.
+
+---
+
+# O desafio
+
+Os Vanguardistas apresentam ao Conselho uma pergunta.
+
+> "Qual problema da engenharia de software continua existindo mesmo após décadas de evolução das ferramentas?"
+
+Após diversas discussões, o grupo identifica uma dor recorrente.
+
+Projetos preservam código.
+
+Projetos raramente preservam conhecimento.
+
+Com o tempo:
+
+- decisões perdem contexto;
+- arquiteturas deixam de ser compreendidas;
+- novos integrantes demoram para entender o sistema;
+- erros antigos voltam a acontecer.
+
+O código permanece.
+
+O conhecimento desaparece.
+
+---
+
+# Aplicando o Método AGREGA
+
+## 1. Compreender
+
+Antes de pensar em tecnologia, o Conselho busca compreender o problema.
+
+A pergunta deixa de ser:
+
+> "Como construir uma nova ferramenta?"
+
+E passa a ser:
+
+> "Por que projetos esquecem suas próprias decisões?"
+
+Essa mudança altera completamente a direção da investigação.
+
+---
+
+## 2. Simplificar
+
+O Conselho procura a menor hipótese capaz de explicar o problema.
+
+Após vários ciclos de discussão, surge uma conclusão.
+
+Todo conhecimento importante de um projeto pode ser representado por três elementos fundamentais.
+
+```text
+Problema
+    ↓
+Decisão
+    ↓
+Aprendizado
+```
+
+Se esses três elementos forem preservados, o restante poderá evoluir naturalmente.
+
+---
+
+## 3. Construir
+
+Em vez de desenvolver um sistema completo, o Conselho cria o menor exemplo possível.
+
+```yaml
+id: D-001
+
+problema:
+  Clientes conseguiam realizar operações acima do limite permitido.
+
+decisao:
+  Bloquear automaticamente operações que excedam o limite.
+
+aprendizado:
+  Regras de validação devem ocorrer antes da autorização da operação.
+```
+
+Esse pequeno registro representa o primeiro experimento do projeto.
+
+---
+
+## 4. Validar
+
+Um novo desenvolvedor analisa apenas esse registro.
+
+Em poucos minutos consegue compreender:
+
+- qual era o problema;
+- qual decisão foi tomada;
+- qual aprendizado permaneceu.
+
+O objetivo não era documentar tudo.
+
+Era impedir que uma decisão importante fosse perdida.
+
+---
+
+## 5. Evoluir
+
+Com a hipótese validada, o Conselho conclui que o projeto pode crescer.
+
+Novas decisões poderão ser relacionadas.
+
+Novos aprendizados poderão ser incorporados.
+
+Ferramentas poderão automatizar esse processo.
+
+Mas nenhuma dessas evoluções altera o princípio fundamental.
+
+Primeiro preservamos conhecimento.
+
+Depois ampliamos sua utilização.
+
+---
+
+# O Projeto DNA
+
+O Conselho propõe um novo conceito.
+
+Todo projeto possui uma identidade.
+
+Essa identidade é formada pelas decisões tomadas ao longo de sua evolução.
+
+Chamaremos essa estrutura de **DNA do Projeto**.
+
+Assim como o DNA preserva as informações essenciais de um organismo, o DNA do Projeto preserva os conhecimentos essenciais para sua evolução.
+
+Ele não substitui:
+
+- código;
+- documentação;
+- testes;
+- arquitetura.
+
+Ele conecta todos esses elementos por meio do conhecimento que lhes deu origem.
+
+---
+
+# Hello AGREGA
+
+O Projeto DNA nasce seguindo o mesmo princípio apresentado anteriormente.
+
+Começar pelo menor ciclo possível.
+
+Não existe inteligência artificial.
+
+Não existe banco de dados.
+
+Não existe integração.
+
+Existe apenas um ciclo simples.
+
+```text
+Problema
+      ↓
+Decisão
+      ↓
+Aprendizado
+```
+
+Esse é o Hello AGREGA do Projeto DNA.
+
+---
+
+# Reflexão
+
+Durante décadas aprendemos a preservar código.
+
+Talvez seja hora de aprender a preservar conhecimento.
+
+Se um projeto consegue explicar por que tomou suas decisões, ele continua evoluindo mesmo quando suas ferramentas, linguagens e equipes mudam.
+
+---
+
+# Resumo
+
+Neste capítulo, utilizamos o Método AGREGA para criar um projeto desde sua concepção.
+
+Em vez de partir de uma tecnologia, começamos por uma dor persistente da engenharia de software.
+
+A partir dessa dor, formulamos uma hipótese, construímos o menor experimento possível e validamos uma nova forma de representar o conhecimento de um projeto.
+
+O Projeto DNA demonstra que o Método AGREGA não serve apenas para desenvolver software.
+
+Ele também pode ser utilizado para descobrir problemas fundamentais, formular hipóteses e criar soluções sustentáveis.
+
+---
+
+## Revisão do Conselho de Agregadores
+
+**Status:** ✅ Aprovado para evolução
+
+**Versão do capítulo:** 0.1.0
+
+### Contribuições incorporadas
+
+- ✅ O problema foi definido antes da solução.
+- ✅ A tecnologia deixou de ser o ponto de partida.
+- ✅ O Hello AGREGA validou a hipótese com o menor experimento possível.
+- ✅ O conceito de DNA do Projeto foi mantido independente de ferramentas específicas.
+- ✅ O projeto permanece aplicável mesmo sem inteligência artificial.
+
+---
+
+## Próximo capítulo
+
+**Capítulo 9 — Negócios**
+
+Como aplicar o Método AGREGA para transformar problemas em oportunidades de negócio sustentáveis.
+
 ## Capítulo 9 — Negócios
 
 ## Capítulo 10 — Vida pessoal
